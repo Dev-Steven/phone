@@ -1,0 +1,11 @@
+/Users/stevenchung/Documents/coding_dojo/c#_stack/phone/obj/Debug/netcoreapp2.2/phone.csprojAssemblyReference.cache
+/Users/stevenchung/Documents/coding_dojo/c#_stack/phone/obj/Debug/netcoreapp2.2/phone.csproj.CoreCompileInputs.cache
+/Users/stevenchung/Documents/coding_dojo/c#_stack/phone/obj/Debug/netcoreapp2.2/phone.AssemblyInfoInputs.cache
+/Users/stevenchung/Documents/coding_dojo/c#_stack/phone/obj/Debug/netcoreapp2.2/phone.AssemblyInfo.cs
+/Users/stevenchung/Documents/coding_dojo/c#_stack/phone/bin/Debug/netcoreapp2.2/phone.deps.json
+/Users/stevenchung/Documents/coding_dojo/c#_stack/phone/bin/Debug/netcoreapp2.2/phone.runtimeconfig.json
+/Users/stevenchung/Documents/coding_dojo/c#_stack/phone/bin/Debug/netcoreapp2.2/phone.runtimeconfig.dev.json
+/Users/stevenchung/Documents/coding_dojo/c#_stack/phone/bin/Debug/netcoreapp2.2/phone.dll
+/Users/stevenchung/Documents/coding_dojo/c#_stack/phone/bin/Debug/netcoreapp2.2/phone.pdb
+/Users/stevenchung/Documents/coding_dojo/c#_stack/phone/obj/Debug/netcoreapp2.2/phone.dll
+/Users/stevenchung/Documents/coding_dojo/c#_stack/phone/obj/Debug/netcoreapp2.2/phone.pdb
